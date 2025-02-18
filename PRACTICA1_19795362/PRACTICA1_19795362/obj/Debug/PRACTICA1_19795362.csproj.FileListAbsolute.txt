@@ -1,0 +1,10 @@
+C:\Users\Rodri\source\repos\PRACTICA1_19795362\PRACTICA1_19795362\bin\Debug\PRACTICA1_19795362.exe.config
+C:\Users\Rodri\source\repos\PRACTICA1_19795362\PRACTICA1_19795362\bin\Debug\PRACTICA1_19795362.exe
+C:\Users\Rodri\source\repos\PRACTICA1_19795362\PRACTICA1_19795362\bin\Debug\PRACTICA1_19795362.pdb
+C:\Users\Rodri\source\repos\PRACTICA1_19795362\PRACTICA1_19795362\obj\Debug\PRACTICA1_19795362.csproj.AssemblyReference.cache
+C:\Users\Rodri\source\repos\PRACTICA1_19795362\PRACTICA1_19795362\obj\Debug\PRACTICA1_19795362.Form1.resources
+C:\Users\Rodri\source\repos\PRACTICA1_19795362\PRACTICA1_19795362\obj\Debug\PRACTICA1_19795362.Properties.Resources.resources
+C:\Users\Rodri\source\repos\PRACTICA1_19795362\PRACTICA1_19795362\obj\Debug\PRACTICA1_19795362.csproj.GenerateResource.cache
+C:\Users\Rodri\source\repos\PRACTICA1_19795362\PRACTICA1_19795362\obj\Debug\PRACTICA1_19795362.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\PRACTICA1_19795362\PRACTICA1_19795362\obj\Debug\PRACTICA1_19795362.exe
+C:\Users\Rodri\source\repos\PRACTICA1_19795362\PRACTICA1_19795362\obj\Debug\PRACTICA1_19795362.pdb

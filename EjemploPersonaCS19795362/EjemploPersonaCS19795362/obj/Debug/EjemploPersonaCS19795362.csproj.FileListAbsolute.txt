@@ -1,0 +1,7 @@
+C:\Users\Rodri\source\repos\EjemploPersonaCS19795362\EjemploPersonaCS19795362\obj\Debug\EjemploPersonaCS19795362.csproj.AssemblyReference.cache
+C:\Users\Rodri\source\repos\EjemploPersonaCS19795362\EjemploPersonaCS19795362\obj\Debug\EjemploPersonaCS19795362.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\EjemploPersonaCS19795362\EjemploPersonaCS19795362\bin\Debug\EjemploPersonaCS19795362.exe.config
+C:\Users\Rodri\source\repos\EjemploPersonaCS19795362\EjemploPersonaCS19795362\bin\Debug\EjemploPersonaCS19795362.exe
+C:\Users\Rodri\source\repos\EjemploPersonaCS19795362\EjemploPersonaCS19795362\bin\Debug\EjemploPersonaCS19795362.pdb
+C:\Users\Rodri\source\repos\EjemploPersonaCS19795362\EjemploPersonaCS19795362\obj\Debug\EjemploPersonaCS19795362.exe
+C:\Users\Rodri\source\repos\EjemploPersonaCS19795362\EjemploPersonaCS19795362\obj\Debug\EjemploPersonaCS19795362.pdb

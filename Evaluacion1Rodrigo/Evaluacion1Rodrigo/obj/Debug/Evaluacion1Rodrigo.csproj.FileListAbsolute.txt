@@ -1,0 +1,10 @@
+C:\Users\Rodri\source\repos\Evaluacion1Rodrigo\Evaluacion1Rodrigo\obj\Debug\Evaluacion1Rodrigo.csproj.AssemblyReference.cache
+C:\Users\Rodri\source\repos\Evaluacion1Rodrigo\Evaluacion1Rodrigo\obj\Debug\Evaluacion1Rodrigo.Form1.resources
+C:\Users\Rodri\source\repos\Evaluacion1Rodrigo\Evaluacion1Rodrigo\obj\Debug\Evaluacion1Rodrigo.Properties.Resources.resources
+C:\Users\Rodri\source\repos\Evaluacion1Rodrigo\Evaluacion1Rodrigo\obj\Debug\Evaluacion1Rodrigo.csproj.GenerateResource.cache
+C:\Users\Rodri\source\repos\Evaluacion1Rodrigo\Evaluacion1Rodrigo\obj\Debug\Evaluacion1Rodrigo.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\Evaluacion1Rodrigo\Evaluacion1Rodrigo\bin\Debug\Evaluacion1Rodrigo.exe.config
+C:\Users\Rodri\source\repos\Evaluacion1Rodrigo\Evaluacion1Rodrigo\bin\Debug\Evaluacion1Rodrigo.exe
+C:\Users\Rodri\source\repos\Evaluacion1Rodrigo\Evaluacion1Rodrigo\bin\Debug\Evaluacion1Rodrigo.pdb
+C:\Users\Rodri\source\repos\Evaluacion1Rodrigo\Evaluacion1Rodrigo\obj\Debug\Evaluacion1Rodrigo.exe
+C:\Users\Rodri\source\repos\Evaluacion1Rodrigo\Evaluacion1Rodrigo\obj\Debug\Evaluacion1Rodrigo.pdb
