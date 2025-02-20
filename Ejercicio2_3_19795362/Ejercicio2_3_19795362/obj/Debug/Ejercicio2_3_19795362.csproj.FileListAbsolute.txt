@@ -1,0 +1,7 @@
+C:\Users\Rodri\source\repos\Ejercicio2_3_19795362\Ejercicio2_3_19795362\bin\Debug\Ejercicio2_3_19795362.exe.config
+C:\Users\Rodri\source\repos\Ejercicio2_3_19795362\Ejercicio2_3_19795362\bin\Debug\Ejercicio2_3_19795362.exe
+C:\Users\Rodri\source\repos\Ejercicio2_3_19795362\Ejercicio2_3_19795362\bin\Debug\Ejercicio2_3_19795362.pdb
+C:\Users\Rodri\source\repos\Ejercicio2_3_19795362\Ejercicio2_3_19795362\obj\Debug\Ejercicio2_3_19795362.csproj.AssemblyReference.cache
+C:\Users\Rodri\source\repos\Ejercicio2_3_19795362\Ejercicio2_3_19795362\obj\Debug\Ejercicio2_3_19795362.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\Ejercicio2_3_19795362\Ejercicio2_3_19795362\obj\Debug\Ejercicio2_3_19795362.exe
+C:\Users\Rodri\source\repos\Ejercicio2_3_19795362\Ejercicio2_3_19795362\obj\Debug\Ejercicio2_3_19795362.pdb

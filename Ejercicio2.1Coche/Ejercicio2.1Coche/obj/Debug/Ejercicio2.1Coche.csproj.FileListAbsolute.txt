@@ -1,0 +1,7 @@
+C:\Users\Rodri\source\repos\Ejercicio2.1Coche\Ejercicio2.1Coche\bin\Debug\Ejercicio2.1Coche.exe.config
+C:\Users\Rodri\source\repos\Ejercicio2.1Coche\Ejercicio2.1Coche\bin\Debug\Ejercicio2.1Coche.exe
+C:\Users\Rodri\source\repos\Ejercicio2.1Coche\Ejercicio2.1Coche\bin\Debug\Ejercicio2.1Coche.pdb
+C:\Users\Rodri\source\repos\Ejercicio2.1Coche\Ejercicio2.1Coche\obj\Debug\Ejercicio2.1Coche.csproj.AssemblyReference.cache
+C:\Users\Rodri\source\repos\Ejercicio2.1Coche\Ejercicio2.1Coche\obj\Debug\Ejercicio2.1Coche.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\Ejercicio2.1Coche\Ejercicio2.1Coche\obj\Debug\Ejercicio2.1Coche.exe
+C:\Users\Rodri\source\repos\Ejercicio2.1Coche\Ejercicio2.1Coche\obj\Debug\Ejercicio2.1Coche.pdb
